@@ -1,5 +1,5 @@
 {
-  "name": "opi",
+  "name": "lab1",
   "version": "1.0.0",
   "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/stud25/opi.git"
+    "url": "git+ssh://git@github.com:Ge1ik/vgu-task-1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/stud25/opi/issues"
+    "url": "https://github.com/Ge1ik/vgu-task-1/issues"
   },
-  "homepage": "https://gitlab.com/stud25/opi#readme",
+  "homepage": "https://github.com/Ge1ik/vgu-task-1#readme",
   "devDependencies": {
     "@types/node": "^18.11.18",
     "nodemon": "^2.0.20",
