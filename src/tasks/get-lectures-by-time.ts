@@ -1,4 +1,4 @@
-import { differenceBeetwenTimesInMinutes } from "../utils/difference-beetwen-times-in-minutes";
+import { differenceBeetwenTimesInMinutes } from "../utils/difference-beetwen-times";
 import { hmsToSeconds } from "../utils/hms-to-secords";
 
 import type { Row } from "../types/row.type";
